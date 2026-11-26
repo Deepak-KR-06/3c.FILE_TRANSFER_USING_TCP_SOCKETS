@@ -67,7 +67,7 @@ s.close()
 ```
 ## OUPUT 
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/780dc0a5-39ea-4e96-a3ea-b9197ae4049c" />
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/35b86f25-3999-4151-92df-3ecb97bf23c4" />
+<img width="823" height="280" alt="Screenshot 2026-11-26 142135" src="https://github.com/user-attachments/assets/9fc4d5f7-6be7-4552-ac7e-564daca9c392" />
 
 
 ## RESULT
